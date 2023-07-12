@@ -11,4 +11,4 @@
 
 * 👋用友系列漏洞检测排查工具
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novysodope&repo=yonyou-check)](https://github.com/novysodope/yonyou-check)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novysodope&repo=yonyou_check)](https://github.com/novysodope/yonyou_check)
