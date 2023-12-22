@@ -13,11 +13,11 @@ I'm novy
 - ✨ The following projects may be helpful to you:
 <hr/>
 
-![RMI_Inj_MemShell](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=RMI_Inj_MemShell&theme=dark)
-![ST2Scanner](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=ST2Scanner&theme=dark)
-![fupo_for_yonyou](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=fupo_for_yonyou&theme=dark)
-![ICS-Tools](https://github-stats.ubrong.com/api/pin/?username=Fupo-series&repo=ICS-Tools&theme=dark)
-![TranSec](https://github-stats.ubrong.com/api/pin/?username=TianWen-Lab&repo=TranSec&theme=dark)
+![RMI_Inj_MemShell](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=RMI_Inj_MemShell&theme=default)
+![ST2Scanner](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=ST2Scanner&theme=default)
+![fupo_for_yonyou](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=fupo_for_yonyou&theme=default)
+![ICS-Tools](https://github-stats.ubrong.com/api/pin/?username=Fupo-series&repo=ICS-Tools&theme=default)
+![TranSec](https://github-stats.ubrong.com/api/pin/?username=TianWen-Lab&repo=TranSec&theme=default)
 <hr/>
 
 - 🏆 **My github stats:**
