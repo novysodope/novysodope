@@ -1,14 +1,26 @@
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-* 👋RMI打内存马工具，适用于ldap协议使用不了等等之类的场景
+𝗜'𝗺 novy
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novysodope&repo=RMI_Inj_MemShell)](https://github.com/novysodope/RMI_Inj_MemShell)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/novysodope)](https://github.com/novysodope)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=novysodope)
 
+## 🧐 About
 
-* 👋Struts2漏洞扫描Burp插件
+- 👨‍💻 My blog: https://novysodope.github.io
+- 📫 Team: Whitecap100 Security
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/novysodope?label=follow%20me&style=social)](https://github.com/novysodope/)
+- ✨ The following projects may be helpful to you:
+<hr/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novysodope&repo=ST2Scanner)](https://github.com/novysodope/ST2Scanner)
+![RMI_Inj_MemShell](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=RMI_Inj_MemShell&theme=dark)
+![ST2Scanner](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=ST2Scanner&theme=dark)
+![fupo_for_yonyou](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=fupo_for_yonyou&theme=dark)
+![ICS-Tools](https://github-stats.ubrong.com/api/pin/?username=Fupo-series&repo=ICS-Tools&theme=dark)
+![TranSec](https://github-stats.ubrong.com/api/pin/?username=TianWen-Lab&repo=TranSec&theme=dark)
+<hr/>
 
+- 🏆 **My github stats:**
 
-* 👋用友系列漏洞检测排查工具
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novysodope&repo=fupo_for_yonyou)](https://github.com/novysodope/fupo_for_yonyou)
+|![](https://github-readme-stats.vercel.app/api?username=novysodope)|![novysodope's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novysodope&layout=compact&hide_border=true&langs_count=10)|
+|-|-|
