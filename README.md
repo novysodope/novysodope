@@ -4,7 +4,7 @@ I'm novy
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/novysodope)](https://github.com/novysodope)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=novysodope)
-[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-白帽100安全攻防实验室-71f9fe?logo=WeChat)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxMDYyNTk3Nw==&scene=124#wechat_redirect)
+[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-白帽100安全攻防实验室-71f9fe?logo=WeChat)](https://www.whitecap100.org)
 [![](https://img.shields.io/badge/Blog-novysodope.github.io-FFB90F?logo=icon)](https://novysodope.github.io)
 [![](https://img.shields.io/github/followers/novysodope?label=follow%20me&style=social)](https://github.com/novysodope/)
 
