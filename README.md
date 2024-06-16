@@ -16,6 +16,8 @@ I'm novy
 [![fupo_for_yonyou](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=fupo_for_yonyou&theme=default)](https://github.com/novysodope/fupo_for_yonyou)
 [![ICS-Tools](https://github-stats.ubrong.com/api/pin/?username=Fupo-series&repo=ICS-Tools&theme=default)](https://github.com/Fupo-series/ICS-Tools)
 [![TranSec](https://github-stats.ubrong.com/api/pin/?username=TianWen-Lab&repo=TranSec&theme=default)](https://github.com/TianWen-Lab/TranSec)
+[![javaeasyscan
+](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=javaeasyscan&theme=default)](https://github.com/novysodope/javaeasyscan)
 <hr/>
 
 - 🏆 **My github stats:**
