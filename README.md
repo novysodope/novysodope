@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-大家好，我是novy，WEB安全出身，现在专注于车联网安全
+大家好，我是novy，传统WEB安全出身，以前比较喜欢做JAVA代码审计，现在专注于车联网安全
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/novysodope)](https://github.com/novysodope)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=novysodope)
