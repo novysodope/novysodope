@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-I'm novy
+大家好，我是novy，WEB安全出身，现在专注于车联网安全
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/novysodope)](https://github.com/novysodope)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=novysodope)
@@ -8,7 +8,7 @@ I'm novy
 [![](https://img.shields.io/badge/Blog-novysodope.github.io-FFB90F?logo=icon)](https://novysodope.github.io)
 [![](https://img.shields.io/github/followers/novysodope?label=follow%20me&style=social)](https://github.com/novysodope/)
 
-- ✨ The following projects may be helpful to you:
+- ✨ 以下是我仓库里几个比较热门的项目，肯能对你比较有帮助:
 <hr/>
 
 - https://github.com/novysodope/RMI_Inj_MemShell JNDI注入（RMI专用）打内存马工具
@@ -19,7 +19,7 @@ I'm novy
 - https://github.com/novysodope/javaeasyscan JAVA自动代码审计工具
 <hr/>
 
-- 🏆 **My github stats:**
+- 🏆 **我的Github统计数据:**
 
 |![](https://github-readme-stats.vercel.app/api?username=novysodope)|![novysodope's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novysodope&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
