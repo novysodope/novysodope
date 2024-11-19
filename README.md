@@ -11,13 +11,12 @@ I'm novy
 - ✨ The following projects may be helpful to you:
 <hr/>
 
-[![RMI_Inj_MemShell](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=RMI_Inj_MemShell&theme=default)](https://github.com/novysodope/RMI_Inj_MemShell)
-[![ST2Scanner](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=ST2Scanner&theme=default)](https://github.com/novysodope/ST2Scanner)
-[![fupo_for_yonyou](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=fupo_for_yonyou&theme=default)](https://github.com/novysodope/fupo_for_yonyou)
-[![ICS-Tools](https://github-stats.ubrong.com/api/pin/?username=Fupo-series&repo=ICS-Tools&theme=default)](https://github.com/Fupo-series/ICS-Tools)
-[![TranSec](https://github-stats.ubrong.com/api/pin/?username=TianWen-Lab&repo=TranSec&theme=default)](https://github.com/TianWen-Lab/TranSec)
-[![javaeasyscan
-](https://github-stats.ubrong.com/api/pin/?username=novysodope&repo=javaeasyscan&theme=default)](https://github.com/novysodope/javaeasyscan)
+- https://github.com/novysodope/RMI_Inj_MemShell JNDI注入（RMI专用）打内存马工具
+- https://github.com/novysodope/ST2Scanner Struts2漏洞Burp被动扫描插件
+- https://github.com/novysodope/fupo_for_yonyou 用友系列漏洞扫描工具
+- https://github.com/Fupo-series/ICS-Tools 工控设备信息识别工具
+- https://github.com/TianWen-Lab/TranSec 车联网渗透测试系统
+- https://github.com/novysodope/javaeasyscan JAVA自动代码审计工具
 <hr/>
 
 - 🏆 **My github stats:**
