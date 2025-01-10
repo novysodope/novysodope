@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/Blog-novysodope.github.io-FFB90F?logo=icon)](https://novysodope.github.io)
 [![](https://img.shields.io/github/followers/novysodope?label=follow%20me&style=social)](https://github.com/novysodope/)
 
-- ✨ 以下是我仓库里几个比较热门的项目，可能对你比较有帮助:
+- ✨ 以下是我仓库里几个比较热门的项目，可能对你的学习比较有帮助:
 <hr/>
 
 - https://github.com/novysodope/RMI_Inj_MemShell JNDI注入（RMI专用）打内存马工具
