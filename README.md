@@ -18,7 +18,7 @@
 - https://github.com/TianWen-Lab/TranSec 车联网渗透测试系统
 - https://github.com/novysodope/javaeasyscan JAVA自动代码审计工具
 <hr/>
-
+以上这些都是我工作闲时学习的产出，公开仅是用来学习交流，从未用于违法行为，希望你们也一样遵纪守法，切勿用于破坏目的
 - 🏆 **我的Github统计数据:**
 
 |![](https://github-readme-stats.vercel.app/api?username=novysodope)|![novysodope's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novysodope&layout=compact&hide_border=true&langs_count=10)|
