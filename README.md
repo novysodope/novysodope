@@ -17,6 +17,7 @@
 - https://github.com/Fupo-series/ICS-Tools 工控设备信息识别工具
 - https://github.com/TianWen-Lab/TranSec 车联网渗透测试系统
 - https://github.com/novysodope/javaeasyscan JAVA自动代码审计工具
+- https://github.com/novysodope/yunso Github动态监控推送
 
 <small>以上这些都是我工作闲时学习的产出，公开仅是用来学习交流，从未用于违法行为，希望你们也一样遵纪守法，切勿用于破坏目的</small>
 
