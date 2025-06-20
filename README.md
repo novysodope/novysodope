@@ -10,11 +10,6 @@
 
 
 
-[![](https://img.shields.io/badge/Blog-novysodope.github.io-FFB90F?logo=icon)](https://novysodope.github.io)
-测试
-[读文件](https://www.lovei.org/js.svg)
-[file本地](file:///sdcard/)
-
 - ✨ 以下是我仓库里几个比较热门的项目，可能对你的学习比较有帮助:
 <hr/>
 
